@@ -4,7 +4,6 @@ import java.util.Scanner;
 
 public class Ex04VM {
     public static void main(String[] args) {
-        while (true) {
             Scanner sc = new Scanner(System.in);
             System.out.print("투입 금액 : ");
             int money = sc.nextInt();
@@ -57,4 +56,3 @@ public class Ex04VM {
             System.out.println("일원: " + change_1 + " 개");
         }
     }
-}
