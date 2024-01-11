@@ -10,7 +10,7 @@ public class Ex03Con {
 
         int month = 1;
 
-        switch (month) {
+        /*switch (month) {
             case 12, 1, 2:
                 System.out.println("겨울");
                 break;
@@ -25,6 +25,6 @@ public class Ex03Con {
                 break;
             default:
                 System.out.println("잘못 입력");
-        }
+        } */
     }
 }
