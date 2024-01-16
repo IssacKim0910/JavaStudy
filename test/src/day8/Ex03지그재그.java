@@ -25,13 +25,14 @@ public class Ex03지그재그 {
 //            System.out.println();
 //        }
         for (int[] f : array) {
+          
                 for (int s : f) {
                     System.out.print(s + " ");
                 }
-            }
+           
             System.out.println();
         }
     }
-
+}
 
 
