@@ -1,7 +1,7 @@
 package day9;
 
 import java.util.Scanner;
-public class ex08 {
+public class Ex08 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int num1 = sc.nextInt();

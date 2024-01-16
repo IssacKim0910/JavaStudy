@@ -507,3 +507,13 @@ w
 G.idea/sonarlint/issuestore/7/0/70fa9afedc653555f4a72ed5c349e6a25eb84c19,d/f/df301724327884887519e8c405392955348d66ed
 w
 G.idea/sonarlint/issuestore/7/1/716a63a9b10d5dce5f28a59674d2696069c823cf,3/f/3fd016e89489e87a197e300eb429ef2909613a3c
+G
+test/src/day9/Ex08.java,e/f/ef22e7fa5dd4d3bafe6d908053763e8e434fa47e
+X
+(test/src/day10/Ex03getPerfectNumber.java,4/b/4bf71c67671150ee595d8576ca2e5920e2c085b2
+S
+#test/src/day10/Ex04OverLoading.java,b/8/b8da14f85a01436b5c762f5c0c7f8d5c169f20a5
+N
+test/src/day11/Ex01People.java,3/e/3e10bf8faedfd9b882f2c97aacf524f17d21ec3e
+R
+"test/src/day11/Ex01PeopleMain.java,e/2/e291adcfbff4e66ffd19a3511f40439c0b066e6d

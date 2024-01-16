@@ -2,7 +2,7 @@ package day10;
 
 import java.util.Scanner;
 
-public class Ex03 {
+public class Ex03getPerfectNumber {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int startValue = sc.nextInt();
