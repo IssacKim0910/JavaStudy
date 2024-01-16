@@ -15,7 +15,7 @@ public class Ex06For {
 
         for (int i = 1; i <= 10; i++) {
             System.out.printf("2 x %d = %d%n", i, 2 * i);
-            System.out.println("2 x " + i + " = " + i * 2);
+//            System.out.println("2 x " + i + " = " + i * 2);
         }
 
     }

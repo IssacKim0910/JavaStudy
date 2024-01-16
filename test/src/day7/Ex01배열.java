@@ -13,8 +13,8 @@ public class Ex01배열 {
         for (int i = 0; i < array.length; i++) {
             array[i] = i + 1;
         }
-        for (int i = 1; i <= array.length; i++) {
-            System.out.println(array[i - 1]);
+        for (int i = 0; i < array.length; i++) {
+            System.out.println(array[i]);
         }
     }
 }

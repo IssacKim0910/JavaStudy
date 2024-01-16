@@ -11,6 +11,16 @@ public class Ex03배열의복사 {
 
         array2[0] = 999;
         System.out.println(array2[0]);
-        System.out.println(array1[0]); 
-    }
-}
+        System.out.println(array1[0]);
+        System.out.println();
+        System.out.println(array1);
+        System.out.println(array2);
+                int[] a = { 1, 2, 3, 4 };
+                int[] b = a.clone();
+                b[0] = 4;
+        System.out.println(b[0]);
+        System.out.println(a[0]);
+            }
+        }
+
+
