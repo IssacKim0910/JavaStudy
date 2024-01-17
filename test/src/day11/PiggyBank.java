@@ -15,17 +15,15 @@ public class PiggyBank {
 
     public void deposit(int input) {
         money += input;
-        System.out.println("현재 잔액 : " + money);
+        //System.out.println("현재 잔액 : " + money);
     }
-
+    
     public void withdraw(int input) {
         money -= input;
-        System.out.println("현재 잔액 : " + money);
+        //System.out.println("현재 잔액 : " + money);
     }
 
     public void showMoney() {
         System.out.println("잔액 : " + money);
     }
 }
-
-
