@@ -517,3 +517,11 @@ N
 test/src/day11/Ex01People.java,3/e/3e10bf8faedfd9b882f2c97aacf524f17d21ec3e
 R
 "test/src/day11/Ex01PeopleMain.java,e/2/e291adcfbff4e66ffd19a3511f40439c0b066e6d
+J
+test/src/day11/People.java,d/5/d557cc6f409ff83fa05bf440c2bce4c144c3f76c
+N
+test/src/day11/PeopleMain.java,9/8/98a80e9c7b76c73015238715803fe103a1bc1eaa
+M
+test/src/day11/PiggyBank.java,2/a/2aa4ccebd7a3350ec2370d2088efc57ef1ed5ba6
+Q
+!test/src/day11/PiggyBankMain.java,d/f/df926c44fdde99b1f12309afd658dafc39a9886b
