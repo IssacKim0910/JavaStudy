@@ -7,24 +7,35 @@ public class Music {
 	private String singer; // 가수
 	private String title; // 제목
 	private int time; // 시간
+
+	public Music(String singer, String title, int time) {
+		this.singer = singer;
+		this.title = title;
+		this.time = time;
+	}
+
 	public String getSinger() {
 		return singer;
 	}
+
 	public void setSinger(String singer) {
 		this.singer = singer;
 	}
+
 	public String getTitle() {
 		return title;
 	}
+
 	public void setTitle(String title) {
 		this.title = title;
 	}
+
 	public int getTime() {
 		return time;
 	}
+
 	public void setTime(int time) {
 		this.time = time;
 	}
-	
 
 }
