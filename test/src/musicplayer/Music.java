@@ -7,11 +7,21 @@ public class Music {
 	private String singer; // 가수
 	private String title; // 제목
 	private int time; // 시간
+	private String path; // 실제 노래 경로
 
-	public Music(String singer, String title, int time) {
+	public Music(String singer, String title, int time, String path) {
 		this.singer = singer;
 		this.title = title;
 		this.time = time;
+		this.path = path;
+	}
+
+	public String getPath() {
+		return path;
+	}
+	
+	public void setPath(String path) {
+		this.path = path;
 	}
 
 	public String getSinger() {
