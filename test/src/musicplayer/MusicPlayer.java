@@ -37,13 +37,16 @@ public class MusicPlayer {
                 System.out.println("====== 노래List ======");
 
                 for (int i = 0; i < list.size(); i++) {
-                    String name = list.get(i).getSinger();
-                    String title = list.get(i).getTitle();
-                    int time = list.get(i).getTime();
-                    System.out.printf((i + 1) + ".%s - %s (%d초)\n", name, title, time);
+                    System.out.print(i + 1 + "." + list.get(i).getSinger() + "-");
+                    System.out.print(list.get(i).getTitle() + "(");
+                    System.out.println(list.get(i).getTime() + "초)");
                 }
 
             } else if (menu == 2) {
+                System.out.println("======= 재생 ======");
+                System.out.print(point + 1 + "." + list.get(point).getSinger() + "-");
+                System.out.print(list.get(point).getTitle() + "(");
+                System.out.println(list.get(point).getTime() + "초)");
 
             } else if (menu == 3) {
                 System.out.println("====== 이전곡 ======");
